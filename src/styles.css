@@ -1,0 +1,11 @@
+.bg-gradient {
+  background: linear-gradient(
+    135deg,
+    rgb(65, 165, 141, 1) 0%,
+    rgba(0, 200, 255, 1) 100%
+  );
+}
+
+.border-input{
+  border: 1px solid;
+}
